@@ -1,1 +1,10 @@
 /bin/
+*.class
+sources.txt
+.idea/
+*.iml
+.classpath.bak
+.settings/
+!/.settings/
+.DS_Store
+Thumbs.db
